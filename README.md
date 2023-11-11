@@ -21,3 +21,7 @@ Software Architecture Overview
 Development plan and timeline
 - Partitioning of tasks
 - Team member responsibilities
+
+Software 2.0 Document
+- Includes database management strategy
+- Description of databases
